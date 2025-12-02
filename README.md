@@ -22,7 +22,7 @@ Each project below links to its own repository with code, usage instructions, an
 ### 1.1 Harvest detection from NDVI for corn and soy
 
 **Repository**  
-`gee_harvest_detection_ndvi`  
+`https://github.com/Yonigoldwas/gee_harvest_detection_ndvi.git`  
 link once created  
 
 **Problem**  
