@@ -42,7 +42,7 @@ Maps and statistics that show when each field was harvested, ready to use for ag
 ### 1.2 Unsupervised crop classification with satellite embeddings
 
 **Repository**  
-`gee_unsupervised_crop_classification_embeddings`
+`https://github.com/Yonigoldwas/gee_unsupervised_crop_classification_embeddings.git`
 
 **Problem**  
 Differentiate corn and soy fields over the corn belt using satellite embeddings, without relying only on classic vegetation indices.
