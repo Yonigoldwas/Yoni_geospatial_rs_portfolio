@@ -23,7 +23,6 @@ Each project below links to its own repository with code, usage instructions, an
 
 **Repository**  
 `https://github.com/Yonigoldwas/gee_harvest_detection_ndvi.git`  
-link once created  
 
 **Problem**  
 Objectively detect harvest timing for corn and soy fields in a given region and period.
