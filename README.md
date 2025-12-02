@@ -60,7 +60,7 @@ Crop type maps and evaluation metrics that show how well simple methods can sepa
 ### 1.3 SAR flood mapping with change detection
 
 **Repository**  
-`gee_sar_flood_mapping_change_detection`
+`https://github.com/Yonigoldwas/SAR-flood-mapping-with-change-detection.git`
 
 **Problem**  
 Map flooded areas after an event and quantify the impact on agriculture and urban zones.
