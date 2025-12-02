@@ -79,8 +79,8 @@ Flood extent maps and area statistics that support emergency response, reporting
 
 ### 1.4 Indices app for polygons
 
-**Repository**  
-`gee_indices_app_for_polygon`
+**App link**  
+`https://yoni.users.earthengine.app/view/indicesappforpolygononescreen`
 
 **Problem**  
 Give agronomists a simple way to explore indices for any field or polygon over time.
@@ -88,11 +88,11 @@ Give agronomists a simple way to explore indices for any field or polygon over t
 **Approach**  
 1. GEE app where the user draws or uploads a polygon  
 2. User selects date range  
-3. App displays Sentinel two based indices NDVI, EVI and others as maps and time series  
+3. App displays Sentinel-2-based indices NDVI, EVI, and others as maps and time series  
 4. Optionally export charts or data
 
 **Result**  
-Interactive tool that supports field scouting and remote crop assessment directly in the browser.
+An interactive tool that supports field scouting and remote crop assessment directly in the browser.
 
 ---
 
