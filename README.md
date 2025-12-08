@@ -96,15 +96,6 @@ Differentiate corn and soy fields over the corn belt using satellite embeddings,
 Crop type maps and evaluation metrics that show how well simple methods can separate crops in the learned embedding space.
 
 ---
-### 2.3 Corn and soy classification with GEE Python API
-
-**Repository**  
-`gee_python_corn_soy_classification`
-
-**Summary**  
-Supervised classification of corn and soy using Sentinel two data and the GEE Python API, implemented in a Colab style notebook with clear training, prediction, and evaluation steps.
-
----
 
 ## 3. Flood and risk mapping
 
