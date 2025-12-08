@@ -28,7 +28,7 @@ Each project below links to its own repository with code, usage instructions, an
 Objectively detect harvest timing for corn and soy fields in a given region and period.
 
 **Approach**  
-1. Use Sentinel two surface reflectance imagery in Google Earth Engine  
+1. Use Sentinel-2 surface reflectance imagery in Google Earth Engine  
 2. Compute NDVI time series per field polygon  
 3. Smooth the signal and detect the main drop that corresponds to harvest  
 4. Export maps and tables with estimated harvest date per field
@@ -108,7 +108,7 @@ Crop type maps and evaluation metrics that show how well simple methods can sepa
 Map flooded areas after an event and quantify the impact on agriculture and urban zones.
 
 **Approach**  
-1. Use Sentinel one radar imagery in GEE  
+1. Use Sentinel-1 radar imagery in GEE  
 2. Build pre event and post event composites  
 3. Apply a change detection rule on backscatter values  
 4. Intersect flooded pixels with land cover data  
