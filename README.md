@@ -161,7 +161,7 @@ A live BI style interface for exploring share performance and basic analytics.
 
 ---
 
-### 5.2 Eto water balance and GDD tracker
+### 5.2 ETo water balance and GDD tracker
 
 **Repository**  
 `https://github.com/Yonigoldwas/ET-_Water_Balance_GDD_Pest_Window_Tracker.git`
