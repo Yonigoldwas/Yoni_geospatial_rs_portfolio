@@ -57,27 +57,7 @@ Crop type maps and evaluation metrics that show how well simple methods can sepa
 
 ---
 
-### 1.3 SAR flood mapping with change detection
-
-**Repository**  
-`https://github.com/Yonigoldwas/SAR-flood-mapping-with-change-detection.git`
-
-**Problem**  
-Map flooded areas after an event and quantify the impact on agriculture and urban zones.
-
-**Approach**  
-1. Use Sentinel one radar imagery in GEE  
-2. Build pre event and post event composites  
-3. Apply a change detection rule on backscatter values  
-4. Intersect flooded pixels with land cover data  
-5. Calculate affected agricultural and urban areas
-
-**Result**  
-Flood extent maps and area statistics that support emergency response, reporting, and risk analysis.
-
----
-
-### 1.4 Indices app for polygons
+### 1.3 Indices app for polygons
 
 **App link**  
 `https://yoni.users.earthengine.app/view/indicesappforpolygononescreen`
@@ -128,9 +108,23 @@ Supervised classification of corn and soy using Sentinel two data and the GEE Py
 
 ## 3. Flood and risk mapping
 
-Covered above in the SAR flood mapping project.  
+### 3.1 SAR flood mapping with change detection
 
-Additional risk and event mapping projects will be added here in the future.
+**Repository**  
+`https://github.com/Yonigoldwas/SAR-flood-mapping-with-change-detection.git`
+
+**Problem**  
+Map flooded areas after an event and quantify the impact on agriculture and urban zones.
+
+**Approach**  
+1. Use Sentinel one radar imagery in GEE  
+2. Build pre event and post event composites  
+3. Apply a change detection rule on backscatter values  
+4. Intersect flooded pixels with land cover data  
+5. Calculate affected agricultural and urban areas
+
+**Result**  
+Flood extent maps and area statistics that support emergency response, reporting, and risk analysis.
 
 ---
 
