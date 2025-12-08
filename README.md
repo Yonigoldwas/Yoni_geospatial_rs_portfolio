@@ -38,26 +38,7 @@ Maps and statistics that show when each field was harvested, ready to use for ag
 
 ---
 
-### 1.2 Unsupervised crop classification with satellite embeddings
-
-**Repository**  
-`https://github.com/Yonigoldwas/gee_unsupervised_crop_classification_embeddings.git`
-
-**Problem**  
-Differentiate corn and soy fields over the corn belt using satellite embeddings, without relying only on classic vegetation indices.
-
-**Approach**  
-1. Use the Google satellite embedding dataset in GEE  
-2. Combine with CDL information for corn and soy  
-3. Apply clustering or simple classifiers in the embedding space  
-4. Evaluate with confusion matrix and accuracy by region
-
-**Result**  
-Crop type maps and evaluation metrics that show how well simple methods can separate crops in the learned embedding space.
-
----
-
-### 1.3 Indices app for polygons
+### 1.2 Indices app for polygons
 
 **App link**  
 `https://yoni.users.earthengine.app/view/indicesappforpolygononescreen`
@@ -96,7 +77,26 @@ Classify crop types corn, soybeans, wheat in a new season using a model trained 
 **Result**  
 A practical workflow that shows how to combine representation learning and simple models to generalize crop classification across years.
 
-### 2.2 Corn and soy classification with GEE Python API
+---
+### 2.2 Unsupervised crop classification with satellite embeddings
+
+**Repository**  
+`https://github.com/Yonigoldwas/gee_unsupervised_crop_classification_embeddings.git`
+
+**Problem**  
+Differentiate corn and soy fields over the corn belt using satellite embeddings, without relying only on classic vegetation indices.
+
+**Approach**  
+1. Use the Google satellite embedding dataset in GEE  
+2. Combine with CDL information for corn and soy  
+3. Apply clustering or simple classifiers in the embedding space  
+4. Evaluate with confusion matrix and accuracy by region
+
+**Result**  
+Crop type maps and evaluation metrics that show how well simple methods can separate crops in the learned embedding space.
+
+---
+### 2.3 Corn and soy classification with GEE Python API
 
 **Repository**  
 `gee_python_corn_soy_classification`
