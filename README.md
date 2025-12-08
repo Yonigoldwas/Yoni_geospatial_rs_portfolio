@@ -62,7 +62,7 @@ An interactive tool that supports field scouting and remote crop assessment dire
 ### 2.1 Embeddings based crop classification with adaptor
 
 **Repository**  
-`gee_embeddings_crop_classification_adaptor`
+`https://github.com/Yonigoldwas/CornBelt_crop_classification_embedding_s2_adapter.git`
 
 **Problem**  
 Classify crop types corn, soybeans, wheat in a new season using a model trained on satellite embeddings from a previous year.
@@ -124,7 +124,7 @@ Flood extent maps and area statistics that support emergency response, reporting
 ### 4.1 Airplane detection in NAIP imagery with SAM three
 
 **Repository**  
-`cv_sam3_naip_airplane_detection`
+`https://github.com/Yonigoldwas/SAM3_object_detection.git`
 
 **Problem**  
 Detect airplanes in high resolution NAIP aerial imagery.
@@ -145,7 +145,7 @@ Example of applying modern vision models to remote sensing imagery in a Jupyter 
 ### 5.1 NexusBI live market intelligence
 
 **Repository**  
-`streamlit_nexusbi_live_market_intel`
+`https://github.com/Yonigoldwas/Crypto-Intelligence-Dashboard.git`
 
 **Problem**  
 Provide an interactive dashboard for share and market monitoring.
@@ -164,7 +164,7 @@ A live BI style interface for exploring share performance and basic analytics.
 ### 5.2 Eto water balance and GDD tracker
 
 **Repository**  
-`streamlit_eto_water_balance_gdd_tracker`
+`https://github.com/Yonigoldwas/ET-_Water_Balance_GDD_Pest_Window_Tracker.git`
 
 **Problem**  
 Help agronomists and growers track reference evapotranspiration water balance and growing degree days for a given area and period.
